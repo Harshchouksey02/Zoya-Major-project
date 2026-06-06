@@ -1,7 +1,12 @@
 package com.agroveda.api.runner;
 
 import com.agroveda.api.model.Product;
+import com.agroveda.api.model.User;
+import com.agroveda.api.model.UserRole;
 import com.agroveda.api.repository.ProductRepository;
+import com.agroveda.api.repository.UserRepository;
+import com.agroveda.api.repository.UserRoleRepository;
+import com.agroveda.api.security.BCryptHelper;
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -20,8 +25,38 @@ public class DatabaseSeeder implements CommandLineRunner {
     @Autowired
     private ProductRepository productRepository;
 
+    @Autowired
+    private UserRepository userRepository;
+
+    @Autowired
+    private UserRoleRepository userRoleRepository;
+
+    @Autowired
+    private BCryptHelper bcryptHelper;
+
     @Override
     public void run(String... args) throws Exception {
+        // Seed default Admin user
+        String adminEmail = "zoyaibrahim987@gmail.com";
+        if (userRepository.findByEmail(adminEmail).isEmpty()) {
+            System.out.println("Seeding default admin user: " + adminEmail);
+            String userId = UUID.randomUUID().toString();
+            
+            User adminUser = new User();
+            adminUser.setId(userId);
+            adminUser.setEmail(adminEmail);
+            adminUser.setPasswordHash(bcryptHelper.hash("1234"));
+            userRepository.save(adminUser);
+
+            UserRole adminRole = new UserRole();
+            adminRole.setId(UUID.randomUUID().toString());
+            adminRole.setUserId(userId);
+            adminRole.setRole("admin");
+            userRoleRepository.save(adminRole);
+            
+            System.out.println("Default admin user seeded successfully!");
+        }
+
         if (productRepository.count() == 0) {
             System.out.println("No products found in MySQL database. Starting auto-seeding from products.json...");
             try {
