@@ -33,4 +33,5 @@ backend/data/
 # Agent files
 .gemini/
 brain/
+data/
 
