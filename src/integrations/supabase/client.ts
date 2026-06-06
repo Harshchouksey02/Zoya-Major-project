@@ -1,6 +1,6 @@
 import { toast } from "sonner";
 
-const API_BASE_URL = window.location.origin + '/api';
+const API_BASE_URL = import.meta.env.VITE_API_URL || (window.location.origin + '/api');
 
 // Simple callback storage for auth state changes
 const authListeners: Array<(event: string, session: any) => void> = [];
