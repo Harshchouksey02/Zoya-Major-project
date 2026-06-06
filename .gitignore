@@ -25,6 +25,7 @@ dist-ssr
 
 # Java build folders
 backend/target/
+backend/data/
 *.jar
 *.war
 *.class
