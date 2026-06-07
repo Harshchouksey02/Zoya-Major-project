@@ -6,6 +6,9 @@ import banner1 from "@/assets/farming-banner-1.jpg";
 import banner2 from "@/assets/farming-banner-2.jpg";
 import banner3 from "@/assets/farming-banner-3.jpg";
 import banner4 from "@/assets/farming-banner-4.jpg";
+import banner5 from "@/assets/farming-banner-5.jpg";
+import banner6 from "@/assets/farming-banner-6.jpg";
+import banner7 from "@/assets/farming-banner-7.jpg";
 
 const banners = [
   {
@@ -18,23 +21,44 @@ const banners = [
   {
     id: 2,
     image: banner2,
-    title: "Quality Fertilizers & Products",
-    subtitle: "गुणवत्ता जिस पर भरोसा करें",
-    description: "Trusted by thousands of farmers across India. Our products ensure healthy crops and better harvest.",
-  },
-  {
-    id: 3,
-    image: banner3,
     title: "Har Kisan Ka Saathi",
     subtitle: "हर किसान का विश्वसनीय साथी",
     description: "Join the community of successful farmers who trust AgroVeda for their agricultural needs.",
   },
   {
+    id: 3,
+    image: banner3,
+    title: "Quality Fertilizers & Products",
+    subtitle: "गुणवत्ता जिस पर भरोसा करें",
+    description: "Trusted by thousands of farmers across India. Our products ensure healthy crops and better harvest.",
+  },
+  {
     id: 4,
     image: banner4,
-    title: "Modern Farming Solutions",
-    subtitle: "आधुनिक कृषि के लिए आधुनिक समाधान",
-    description: "Innovative agricultural technology and products to revolutionize your farming experience.",
+    title: "Rooted in Tradition",
+    subtitle: "परंपरा से जुड़ी खेती",
+    description: "Blending time-tested farming traditions with modern agricultural solutions for India's farmers.",
+  },
+  {
+    id: 5,
+    image: banner5,
+    title: "Nurturing Every Grain",
+    subtitle: "हर दाने की देखभाल",
+    description: "From seed to harvest, AgroVeda supports you at every step of your farming journey.",
+  },
+  {
+    id: 6,
+    image: banner6,
+    title: "Faces of Indian Farming",
+    subtitle: "भारतीय किसान की ताकत",
+    description: "Empowering millions of hardworking farmers with the best agricultural products and solutions.",
+  },
+  {
+    id: 7,
+    image: banner7,
+    title: "Growing a Better Tomorrow",
+    subtitle: "बेहतर कल की खेती",
+    description: "Sustainable agriculture for the next generation. Protecting nature while maximizing yield.",
   },
 ];
 
