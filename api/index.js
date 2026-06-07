@@ -130,8 +130,8 @@ app.post('/api/auth/signup', async (req, res) => {
       userCount = db.memoryDb.users.length;
     }
 
-    // Determine role (first user is admin, rest are user)
-    const role = userCount === 1 ? 'admin' : 'user';
+    // Determine role (only zoyaibrahim987@gmail.com gets admin role, rest get user role)
+    const role = normalizedEmail === 'zoyaibrahim987@gmail.com' ? 'admin' : 'user';
     const roleId = `role-${Date.now()}-${Math.random().toString(36).substring(2, 9)}`;
 
     if (db.useDb) {
@@ -312,15 +312,24 @@ app.delete('/api/products', async (req, res) => {
 
 // GET /api/user_roles
 app.get('/api/user_roles', async (req, res) => {
-  const { user_id } = req.query;
+  const { user_id, role } = req.query;
   const targetUserId = user_id || req.userId;
 
   try {
     if (db.useDb) {
-      const results = await db.query('SELECT * FROM user_roles WHERE user_id = $1', [targetUserId]);
+      let queryText = 'SELECT * FROM user_roles WHERE user_id = $1';
+      let params = [targetUserId];
+      if (role) {
+        queryText += ' AND role = $2';
+        params.push(String(role));
+      }
+      const results = await db.query(queryText, params);
       res.json(results.rows);
     } else {
-      const list = db.memoryDb.user_roles.filter(r => r.user_id === targetUserId);
+      let list = db.memoryDb.user_roles.filter(r => r.user_id === targetUserId);
+      if (role) {
+        list = list.filter(r => r.role === String(role));
+      }
       res.json(list);
     }
   } catch (err) {

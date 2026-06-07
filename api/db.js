@@ -55,7 +55,7 @@ function loadLocalMemoryDb() {
   try {
     if (fs.existsSync(localDbPath)) {
       const data = fs.readFileSync(localDbPath, 'utf8');
-      memoryDb = JSON.parse(data);
+      Object.assign(memoryDb, JSON.parse(data));
       console.log("Loaded local memory DB from", localDbPath);
     }
   } catch (err) {
@@ -131,13 +131,20 @@ async function initDb() {
       // Seed default admin user
       const adminEmail = 'zoyaibrahim987@gmail.com';
       const bcrypt = require('bcryptjs');
-      const hash = bcrypt.hashSync('1234', 10);
+      const hash = bcrypt.hashSync('123456', 10);
       const userExists = await client.query('SELECT * FROM users WHERE email = $1', [adminEmail]);
       if (userExists.rowCount === 0) {
         const adminId = 'admin-uuid-1111';
         await client.query('INSERT INTO users (id, email, password_hash) VALUES ($1, $2, $3)', [adminId, adminEmail, hash]);
         await client.query('INSERT INTO user_roles (id, user_id, role) VALUES ($1, $2, $3)', ['admin-role-1111', adminId, 'admin']);
         console.log("Default admin seeded in Postgres!");
+      } else {
+        const adminId = userExists.rows[0].id;
+        await client.query('UPDATE users SET password_hash = $1 WHERE id = $2', [hash, adminId]);
+        const roleExists = await client.query('SELECT * FROM user_roles WHERE user_id = $1 AND role = $2', [adminId, 'admin']);
+        if (roleExists.rowCount === 0) {
+          await client.query('INSERT INTO user_roles (id, user_id, role) VALUES ($1, $2, $3)', [`admin-role-${Date.now()}`, adminId, 'admin']);
+        }
       }
 
       // Seed products if empty
@@ -162,12 +169,12 @@ async function initDb() {
 
     const bcrypt = require('bcryptjs');
     const adminEmail = 'zoyaibrahim987@gmail.com';
-    const hash = bcrypt.hashSync('1234', 10);
+    const hash = bcrypt.hashSync('123456', 10);
     const adminId = 'admin-uuid-1111';
 
     // Seed default admin if not exists in memory
-    const hasAdmin = memoryDb.users.some(u => u.email === adminEmail);
-    if (!hasAdmin) {
+    const existingAdminIdx = memoryDb.users.findIndex(u => u.email === adminEmail);
+    if (existingAdminIdx === -1) {
       memoryDb.users.push({
         id: adminId,
         email: adminEmail,
@@ -180,6 +187,16 @@ async function initDb() {
         user_id: adminId,
         role: 'admin'
       });
+    } else {
+      memoryDb.users[existingAdminIdx].password_hash = hash;
+      const hasAdminRole = memoryDb.user_roles.some(r => r.user_id === memoryDb.users[existingAdminIdx].id && r.role === 'admin');
+      if (!hasAdminRole) {
+        memoryDb.user_roles.push({
+          id: `admin-role-${Date.now()}`,
+          user_id: memoryDb.users[existingAdminIdx].id,
+          role: 'admin'
+        });
+      }
     }
 
     // Seed default products if not exists in memory
