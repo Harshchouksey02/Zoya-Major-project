@@ -50,6 +50,15 @@ export default function UserMenu() {
           {user.email}
         </div>
         <DropdownMenuSeparator />
+        {((user as any)?.role === "admin" || user.email === "zoyaibrahim987@gmail.com") && (
+          <>
+            <DropdownMenuItem onClick={() => navigate("/admin")}>
+              <Settings className="w-4 h-4 mr-2" />
+              Admin Panel
+            </DropdownMenuItem>
+            <DropdownMenuSeparator />
+          </>
+        )}
         <DropdownMenuItem onClick={() => navigate("/orders")}>
           <ShoppingBag className="w-4 h-4 mr-2" />
           My Orders
