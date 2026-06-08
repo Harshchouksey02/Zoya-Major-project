@@ -604,6 +604,32 @@ app.patch('/api/orders/:id', async (req, res) => {
   }
 });
 
+// PUT /api/orders
+app.put('/api/orders', async (req, res) => {
+  const { id } = req.query;
+  const { status } = req.body;
+
+  if (!id || !status) {
+    return res.status(400).json({ message: "id and status required" });
+  }
+
+  try {
+    if (db.useDb) {
+      await db.query('UPDATE orders SET status = $1 WHERE id = $2', [status, String(id)]);
+    } else {
+      const order = db.memoryDb.orders.find(o => o.id === String(id));
+      if (order) {
+        order.status = status;
+        db.saveLocalMemoryDb();
+      }
+    }
+    res.json({ message: "Order status updated" });
+  } catch (err) {
+    console.error(err);
+    res.status(500).json({ message: err.message });
+  }
+});
+
 // GET /api/order_items
 app.get('/api/order_items', async (req, res) => {
   const { order_id } = req.query;

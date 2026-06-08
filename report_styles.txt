@@ -1,0 +1,947 @@
+﻿Style=Heading 2 | Font=Times New Roman | Size=16 | Bold=-1 | Align=1 | Text=SHRI RAM INSTITUTE OF TECHNOLOGY, JABALPUR
+Style=Heading 2 | Font=Times New Roman | Size=16 | Bold=-1 | Align=1 | Text=RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA,
+Style=Heading 2 | Font=Times New Roman | Size=16 | Bold=-1 | Align=1 | Text=BHOPAL
+Style=Normal | Font=Cambria | Size=9999999 | Bold=-1 | Align=1 | Text=MAJOR PROJECT REPORT ON“400°C FINE DINING RESTAURANT & IN-
+Style=Normal | Font=Cambria | Size=17 | Bold=-1 | Align=1 | Text=/
+Style=Normal | Font= | Size=12 | Bold=9999999 | Align=1 | Text=SUBMITTED TO:RAJIV GANDHI PROUDYOGIKI VISHWAVIDYALAYA, BHOP
+Style=Normal | Font=Cambria | Size=10.5 | Bold=9999999 | Align=1 | Text=PARTIAL FULFILMENT OF THE DEGREE OF MCA4TH SEMESTERR |  SES
+Style=Normal | Font=Cambria | Size=9999999 | Bold=9999999 | Align=1 | Text=SUBMITTED BY:HARSH CHOUKSEY (0205CA241012)UNDER THE VALUA
+Style=Normal | Font=Cambria | Size=18 | Bold=-1 | Align=1 | Text=/    _______________________________________________________
+Style=Normal | Font=Cambria | Size=15 | Bold=-1 | Align=1 | Text=CERTIFICATE
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=This is certifying that Harsh Chouksey (0205CA241012), Stude
+Style=Normal | Font=Times New Roman | Size=14 | Bold=-1 | Align=0 | Text=Prof. NIDHI TIWARI(PRINCIPAL)MCA Dept, SRIT
+Style=Normal | Font=Cambria | Size=18 | Bold=-1 | Align=1 | Text=/___________________________________________________________
+Style=Normal | Font=Times New Roman | Size=15 | Bold=-1 | Align=1 | Text=CERTIFICATE
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=This is certifying that Harsh Chouksey (0205CA241012), Stude
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Internal Examiner
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=External Examiner
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Date:Signature:
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Date:Signature:
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Cambria | Size=18 | Bold=-1 | Align=1 | Text=/___________________________________________________________
+Style=Normal | Font=Times New Roman | Size=15 | Bold=-1 | Align=1 | Text=GUIDE CERTIFICATE
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=This is certifying that Harsh Chouksey (0205CA241012), Stude
+Style=Normal | Font=Times New Roman | Size=14 | Bold=-1 | Align=0 | Text=Prof. Sachin Dubey(Project Guide)MCA DEPARTMENT, SRIT
+Style=Normal | Font=Cambria | Size=18 | Bold=-1 | Align=1 | Text=/___________________________________________________________
+Style=Normal | Font=Times New Roman | Size=15 | Bold=-1 | Align=1 | Text=SELF CERTIFICATE
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=This is to certify that the project report entitled “400°C F
+Style=Normal | Font=Times New Roman | Size=14 | Bold=0 | Align=3 | Text=I also certify that I am aware of the “MCA Project & Project
+Style=Normal | Font=Times New Roman | Size=14 | Bold=0 | Align=3 | Text=The matter embodied in this project work has not been submit
+Style=Normal | Font=Times New Roman | Size=14 | Bold=-1 | Align=0 | Text=HARSH CHOUKSEY0205CA241012MCA, 4th Semester
+Style=Normal | Font=Cambria | Size=18 | Bold=-1 | Align=1 | Text=/___________________________________________________________
+Style=Normal | Font=Times New Roman | Size=15 | Bold=-1 | Align=1 | Text=ACKNOWLEDGEMENT
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=I would like to express my sincere gratitude to all those wh
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=I am highly thankful to my esteemed guide, Prof. Sachin Dube
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=I also express my heartfelt gratitude to the management and
+Style=Normal | Font=Times New Roman | Size=9999999 | Bold=0 | Align=3 | Text=I would also like to thank my friend Aashika Jain, Monika Ha
+Style=Normal | Font=Times New Roman | Size=14 | Bold=0 | Align=3 | Text=Finally, I express my gratitude to my family for their conti
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=0 | Text=HARSH CHOUKSEY0205CA241012MCA, 4th Semester
+Style=Normal | Font=Cambria | Size=18 | Bold=-1 | Align=1 | Text=/___________________________________________________________
+Style=Normal | Font=Times New Roman | Size=15 | Bold=-1 | Align=1 | Text=DECLARATION
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=3 | Text=I hereby declare that the project entitled “400°C Fine Dinin
+Style=Normal | Font=Times New Roman | Size=14 | Bold=0 | Align=3 | Text=The matter embodied in this project has not been submitted p
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=0 | Text=Date: 23 May 2026Place: SRIT, Jabalpur
+Style=Normal | Font=Times New Roman | Size=14 | Bold=9999999 | Align=0 | Text=HARSH CHOUKSEY0205CA241012MCA, 4th Semester
+Style=Normal | Font=Cambria | Size=15 | Bold=-1 | Align=1 | Text=INDEX
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=S.No.
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Topic
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Pg. No.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=1.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Company Introduction
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=1-2
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=2.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=About Project
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=3-4
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=3.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Objective
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=5-5
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=4.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=SDLC
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=6-7
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=5.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Software Requirement
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=8-9
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=6.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Hardware Requirement
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=10-11
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=7.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Use Case Diagram
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=12-14
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=8.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=ER Diagram
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=15-16
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=9.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Data Flow Diagram
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=16-18
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=10.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Database and Table
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=18-22
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=11.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=I/O and Interface Design
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=22-27
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=12.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Testing
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=28-31
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=13.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Future Scope
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=31-32
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=14.
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Conclusion
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=32-34
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=15.
+Style=Normal | Font=Cambria | Size=12 | Bold=0 | Align=1 | Text=References
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=34-35
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=1. Company Introduction
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.1 About DataSans
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=DataSans is a Jabalpur-based IT consulting, technology servi
+Style=Heading 2 | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The company was founded by Mr. Rohit Katare, who serves as t
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.2 Vision and Mission
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Vision: To be the most trusted technology growth partner for
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Mission: To empower businesses through custom web and mobile
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.3 Leadership
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Mr. Rohit Katare, Managing Director and Chairman of DataSans
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.4 Core Services
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Web Application Development: Custom responsive web portals e
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Mobile Application Development: Cross-platform native applic
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Data Science & BI Solutions: Comprehensive data warehouse en
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Cybersecurity & IT Infrastructure: PEN testing, security pol
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Cloud DevOps Engineering: Design, deployment, and management
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.5 Track Record and Notable Metrics
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Over 100 successful custom applications designed and deploye
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Solid partnership with KnowBe4 platforms for providing cyber
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Active student internship program, training over 50 MCA/B.Te
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=10+ years of operational excellence in consulting and softwa
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.6 Approach to Technology and Innovation
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=A core operating principle at DataSans is that business grow
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=1.7 Project Development Environment
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The development of the present project was carried out using
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Operating System: Windows 11 as the primary development mach
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Code Editor: Visual Studio Code with custom Python/Django la
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Version Control: Git and GitHub for local and remote reposit
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Database Engine: Standalone MySQL Server (Port 3306) with My
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Language & Framework: Python 3.14 and Django 4.2 LTS / 5.x f
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Environment Manager: Python venv virtual environment module.
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=2. About Project
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.1 Project Title
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The title of the project is “400°C FINE DINING RESTAURANT &
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.2 Project Overview
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The 400°C Fine Dining Restaurant & In-House Table Booking Sy
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.3 The Problem Statement
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Dine-in restaurants face several operational inefficiencies
+Style=Heading 2 | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Static paper menus are unhygienic, costly to print, and cann
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Integrating third-party reservation widgets leads to high mo
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Phone-based manual table bookings lead to frequent human err
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Customer inquiries and ratings are captured on paper feedbac
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Validation of booking parameters (like restricted future dat
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.4 The Proposed Solution
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The proposed solution is a unified, responsive web portal bu
+Style=Heading 2 | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=An interactive menu card displaying dishes grouped by catego
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=A custom In-House Booking Engine that handles table assignme
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Notification Simulation: The server generates booking receip
+Style=List Paragraph | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Secure Administration Dashboard: Replaces external setups, e
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.5 Key Features Summary
+Style=Subtitle | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Student-side (Customer-facing) Features:
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Dynamic Home Screen: Beautiful banners, testimonials, dynami
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Menu Catalogue: Category tab filters (Starters, Mains, Desse
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Online Reservation Form: Captured inputs (Name, Phone, Email
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Time/Date Validation: Checks that bookings are not in the pa
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Contact Us Module: Validates and logs general customer inqui
+Style=Subtitle | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=TPO-side (Admin-facing) Features:
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Secure Panel Authentication: Password-protected access for d
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Menu CRUD Management: Full ability to create, read, update,
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Testimonial Control: Add/edit client reviews and display sta
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Booking Monitor Board: Lists reservations, tracks guest volu
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Static Site Control: Modify active homepage banners and acti
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.6 Technology Stack — High-Level
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The application is built on a clean Python + MySQL architect
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=2.7 Scope of the Project
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The project focuses on a single-restaurant outlet model mana
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=3. Objective
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=3.1 Primary Objective
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=To design, develop, test, and deploy a responsive full-stack
+Style=Heading 2 | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=3.2 Specific Objectives
+Style=Heading 2 | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=3.2.1 Functional Objectives
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To construct a responsive customer menu catalog with categor
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To deploy an online reservation form that captures customer
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To build a secure admin panel for restaurant management to c
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To validate booking date ranges to prevent reservations in t
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=3.2.2 Notification & Simulation Objectives
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To set up Django's console email backend to print simulated
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To build an SMS simulation gateway in views.py that logs sim
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=3.2.3 Non-Functional Objectives
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Security: Defend against cross-site scripting (XSS), SQL inj
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Usability: Enforce a responsive layout that scales dynamical
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Data Integrity: Ensure CASCADE constraints on relational dat
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=3.2.4 Pedagogical Objectives
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To apply full-stack Python application design practices in D
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To learn schema configuration and SQL database integrity usi
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To implement Agile SDLC testing, validation boundaries, and
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=3.3 Expected Outcomes
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=A fully deployed Django application running locally.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=A Standalone MySQL instance with schema mapping for bookings
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=A booking validation system rejecting past dates or dates be
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=4. Software Development Life Cycle
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=4.1 Methodology Adopted
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The project was engineered using the iterative Agile develop
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Under the iterative Agile model adopted, each major feature
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=4.2 SDLC Phases as Applied to This Project
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.2.1 Requirements Analysis
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=We gathered functional and non-functional requirements. The
+Style=Heading 2 | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Feasibility Study
+Style=Heading 2 | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Technical Feasibility: Python, Django, and MySQL are standar
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.2.3 System Design
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=We designed the relational database schema (Category, Menu,
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.2.4 Implementation
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Code implementation was completed in 6 sprints. Sprints focu
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.2.5 Testing
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=We executed manual test cases for page responses, category f
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.2.6 Deployment
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=We collected static assets and configured database migration
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.2.7 Maintenance
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Configure settings.py to log simulated notifications to the
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Implementation Sprints Summary
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Sprint
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Duration
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Feature Delivered & Outcome
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Sprint 1
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=3 days
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Django MVT skeleton setup, MySQL database configuration, mod
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Sprint 2
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=4 days
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Homepage layout implementation (banners, stories, chefs, tes
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Sprint 3
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=3 days
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Menu page catalogue view (alternating grid, category tabs, a
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Sprint 4
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=4 days
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Table Booking form & date/time validation logic (rejecting p
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Sprint 5
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=3 days
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Notification simulation setup (email console outputs, SMS si
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Sprint 6
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=3 days
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Django Admin Panel customization, model registrations, syste
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=4.3 Why Agile Over Waterfall
+Style=Body Text | Font=Cambria | Size=11 | Bold=0 | Align=3 | Text=The decision to use an iterative Agile process rather than a
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Visual layouts and database rules could be verified in incre
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Requirements (like booking date validations and date formats
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Building and testing modules sprint-by-sprint reduced integr
+Style=Normal | Font=Arial | Size=16 | Bold=-1 | Align=0 | Text=5. Software Requirement
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.1 Frontend Technologies
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Technology
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Version
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Purpose in the Project
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=HTML5
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=W3C Standard
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Defines the semantic structure of frontend pages (menu, abou
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=CSS3
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Vanilla CSS
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Handles custom layouts, color schemes, font sizes, transitio
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=JavaScript
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=ES6+
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Manages client-side behaviors, dynamic navigation, and activ
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=jQuery & jQuery UI
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Latest
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Powers the online reservation calendar widget with minDate a
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.2 Backend Technologies
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Technology
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Version
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Purpose in the Project
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Python
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=3.14 (or compatible)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Primary server scripting language for business logic.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Django
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=4.2 LTS / 5.x
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Handles MVT routing, URL processing, security middleware, an
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=mysqlclient
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Latest
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Database adapter connecting Django application to MySQL serv
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.3 Database Layer
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Technology
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Version
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Purpose in the Project
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=MySQL Community Server
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=8.0+
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Stores all restaurant tables, menu items, chefs, and reserva
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Django ORM
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Built-in
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Translates Python class models into MySQL tables and queries
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.4 Email & SMS Simulation Services
+Style=Heading 4 | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Email Service: Built-in Django django.core.mail.backends.c
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.5 Development Tools
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Visual Studio Code: Primary source code editor.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Git & GitHub: Distributed version control and remote project
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=MySQL Command Line: Used to query, verify, and monitor relat
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.6 Operating System and Browser Requirements
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Development OS: Windows 10/11.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Production OS: Linux VPS (Ubuntu Server 20.04 LTS recommende
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Browser Support: Google Chrome 100+, Firefox 100+, Safari 15
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=5.7 Build, Setup, and Run Commands
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Run Development Server: python manage.py runserver
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Inspect Schema Check: python manage.py check
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Create Migrations: python manage.py makemigrations
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Apply Migrations: python manage.py migrate
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Create Admin Account: python manage.py createsuperuser
+Style=Normal | Font=Arial | Size=16 | Bold=-1 | Align=0 | Text=6. Hardware Requirement
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=6.1 Development Hardware
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=6.1.1 Minimum Configuration
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Processor: Intel Core i5 (10th generation or higher), AMD Ry
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=System memory: 8 GB RAM (16 GB recommended for comfortable m
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Storage: 256 GB SSD with at least 20 GB free space.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Display: 13-inch or larger with 1920 by 1080 resolution.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Network: Broadband internet connection with at least 10 Mbps
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=6.1.2 Recommended Configuration
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Processor: Intel Core i5 / AMD Ryzen 5 or higher.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=System Memory: 16 GB RAM.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Storage: 512 GB SSD.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Network: 50 Mbps or higher fiber broadband.
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=6.2 Server / Production Hardware
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The production environment uses managed cloud services and t
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Service Type
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Allocation / Specification
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Hosting Platform
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VPS Linux Instance (Ubuntu Server).
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=CPU & Memory Allocation
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=1 vCPU, 2 GB RAM minimum.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=MySQL Instance Allocation
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Standalone server, Port 3306, 10 GB SSD space.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=6.3 End-User Client Hardware
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The application is designed to be accessible from any modern
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=6.3.1 Customer Client (Minimum)
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Any device capable of running a supported web browser (see S
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Processor: Dual-core 1.5 GHz or higher.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Memory: 4 GB RAM.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Display: 1280 by 720 minimum resolution (mobile screens supp
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Network: 1 Mbps minimum for general browsing; 5 Mbps recomme
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=6.3.2 TPO Client (Minimum)
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Desktop or laptop computer recommended for the TPO dashboard
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Processor: Dual-core 2 GHz or higher.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Memory: 8 GB RAM recommended.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Display: 1920 by 1080 minimum resolution for the reports das
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Network: 5 Mbps broadband recommended.
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=6.4 Optional Peripheral Hardware
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Printer (A4) — useful for printing offer letters, shortlist
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Scanner or smartphone camera — for digitising paper document
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=7. Use Case Diagram
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The Use Case Diagram identifies the external actors of the p
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=7.1 Actors
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Customer: Browses the website, filters the menu, submits inq
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Admin: Logs in, performs CRUD on menu cards/chefs/banners, a
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=7.2 Use Cases — Customer
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=ID
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Use Case
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Brief Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-S1
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Browse Menu Card
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allows users to filter dishes by category, view prices, alle
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-S2
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Submit General Inquiry
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Enables users to send general feedback through the Contact U
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-S3
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Submit Table Booking
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allows users to book tables. System assigns table numbers up
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-S4
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Read Stories & Testimonials
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allows users to read chef details, restaurant story, and cus
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=7.3 Use Cases — TPO (Admin)
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=ID
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Use Case
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Brief Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-T1
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Authenticate Admin
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Secures access to the administrative panel using credentials
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-T2
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Manage Menu Catalog
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Provides full CRUD controls on Categories and Menu Items.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-T3
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Manage Banners & Chefs
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allows updating homepage sliders and active chefs.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-T4
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Monitor Reservations
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allows reviewing table bookings and tracking guest volumes.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=UC-T5
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Review Contact Inquiries
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allows admins to read customer inquiries.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=7.4 Relationships and Notations
+Style=Normal | Font=Arial MT | Size=11 | Bold=0 | Align=0 | Text=The diagram uses the following standard UML notations:
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Solid Lines: Denote direct association between actors (Custo
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=System Boundary: Formulates the logical edge of the applicat
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=7.5 Use Case Diagram
+Style=Normal | Font=Arial | Size=9999999 | Bold=0 | Align=1 | Text=Figure 7.1 — Use Case Diagram of restaurant_management
+Style=Normal | Font=Arial | Size=15 | Bold=-1 | Align=0 | Text=8. ER Diagram
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The Entity-Relationship Diagram describes the relational str
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=8.1 Entity Relationship Diagram
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=8.2 Entities
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=User: Handles admin accounts (id PK, username, password, ema
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Category: Grouping of dishes (id PK, category_name, image).
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Menu: Single dish records (id PK, category_id FK, item_name,
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Booking: Table reservation logs (id PK, name, email, phone,
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Chef: Active chef highlights (id PK, name, designation, expe
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Testimonial: Review records (id PK, client_name, rating, rev
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=8.3 Relationships
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Category to Menu (1:N): A single category contains multiple
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=User (Admin) to Menu (1:N): Admin manages CRUD operations on
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=8.4 Notes on Schema Design
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=• Cascading Deletes: Category deletions automatically cascad
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=9. Data Flow Diagram
+Style=Normal | Font=Arial MT | Size=11 | Bold=0 | Align=3 | Text=Data Flow Diagrams (DFDs) trace the movement of information
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=3 | Text=9.1 DFD Level 0 — Context Diagram
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=3 | Text=9.2 DFD Level 1 — Major Processes
+Style=Heading 2 | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=9.3 DFD Level 2 — Decomposition of Booking Process
+Style=Heading 2 | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Process: (In-House Booking Engine) is decomposed into the fo
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=10. Database and Table
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The "400°C Fine Dining Restaurant & In-House Table Booking S
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.1 auth_user — Django Admin Accounts
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Field
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Type
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Constraints
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=id
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=INT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Unique user ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=username
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(150)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL, UNIQUE
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Admin login name.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=password
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(128)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Bcrypt-hashed password.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=email
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(254)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Admin contact email.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.2 restaurant_app_category — Category Table
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Field
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Type
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Constraints
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=id
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=BIGINT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Unique category ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=category_name
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(255)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL, UNIQUE
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Category display name.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=image
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(100)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Category image file path.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.3 restaurant_app_menu — Menu Items Table
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Field
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Type
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Constraints
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=id
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=BIGINT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Unique dish ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=item_name
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(255)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Dish display name.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=price
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=DECIMAL(10,2)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Price of the dish.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=description
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=TEXT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Dish detailed description.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=image
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(100)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Dish image file path.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=spice_level
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=INT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Spice level (0 to 3 chilis).
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=allergens
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(255)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Allergens details.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=best_seller
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=TINYINT(1)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Best seller badge flag.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=category_id
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=BIGINT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=FK -> category.id
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Maps dish to category.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.4 restaurant_app_booking — Reservations Table
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Field
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Type
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Constraints
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=id
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=BIGINT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Unique booking entry ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=0 | Text=name	
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR (100)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Name of the customer.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=phone
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(20)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Customer phone number.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=email
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(254)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Customer email address.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=guest_count
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=INT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Number of guests (1-7).
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=booking_date
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=DATE
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Reservation date.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=booking_time
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=VARCHAR(10)
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Reservation time block.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=message
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=TEXT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Special requests.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=assigned_table
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=INT
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Auto-allocated table number.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.5 restaurant_app_chef — Chefs Table
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=Field
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=Type
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=Constraints
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=id
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=BIGINT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Unique chef ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=chef_name
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=VARCHAR(255)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=NOT NULL
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Full name of the chef.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=title
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=VARCHAR(255)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Designation/Title of the chef.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=short_description
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=TEXT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Short chef biography summary.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=main_image
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=VARCHAR(500)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Filename path of profile image.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=experience_years
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=VARCHAR(50)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Experience duration stamp.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=added_by_id
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=INT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=FK (auth_user.id)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=1 | Text=Admin user who added this chef.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.6 restaurant_app_testimonial — Reviews Table
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Field
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=0 | Text=Type	
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Constraints
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=id
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=BIGINT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Unique review entry ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=user_id
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=INT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=FK (auth_user.id)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=User context reference (if any).
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=name
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=VARCHAR(255)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Reviewer customer name.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=title
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=VARCHAR(255)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Client title or location.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=content
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=TEXT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NOT NULL
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Review testimonial body text.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=rating
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=INT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NOT NULL, DEFAULT 5
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Star rating values (1-5).
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=image_url
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=VARCHAR(500)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Avatar profile photo path.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.7 restaurant_app_contactinquiry — Inquiries Table
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Field
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Type
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Constraints
+Style=Normal | Font=Times New Roman | Size=11 | Bold=-1 | Align=1 | Text=Description
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=id
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=BIGINT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=PK, AUTO_INCREMENT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Unique inquiry record ID.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=user_id
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=INT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=FK (auth_user.id), NULLABLE
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=User association (if logged in).
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=contact_name
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=VARCHAR(255)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NOT NULL
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Sender name.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=contact_email
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=VARCHAR(254)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NOT NULL
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Sender email address.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=contact_phone
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=VARCHAR(20)
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NOT NULL
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Sender contact phone.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=contact_msg
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=TEXT
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=NOT NULL
+Style=Normal | Font=Times New Roman | Size=11 | Bold=0 | Align=0 | Text=Feedback inquiry body text.
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=10.8 Indexing Strategy
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Index Category Table: unique index on category_name to guara
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Index Booking Table: non-unique index on booking_date to spe
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=11. Input / Output and Interface Design
+Style=font-claude-response-body | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=This section documents the user interface of the 400 C Fine
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=11.1 Design Principles
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Clear role-distinct styling for administrators and visitor
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=11.2 Public Screens
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.2.1 Homepage Interface
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Purpose: Present the restaurant's visual highlights (scrolli
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Inputs: Tab filter clicks (Starters, Main Course, Drinks, De
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Outputs: Dynamically rendered homepage panels, active slider
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=3 | Text=/
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=3 | Text=11.2.2 Menu Catalogue Page
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Purpose: Display the complete restaurant menu catalog, group
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Inputs: Navigation category clicks.
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Outputs: Alternating rows of categories containing complete
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=/
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.2.3 Table Booking Page
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Purpose: Capture customer table booking details and run the
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Inputs: Name, Phone, Email, Guest Count (1-7), Reservation D
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Outputs: Auto-allocated Table Number, saved reservation reco
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=/
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.2.4 Contact Us Page
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Displays basic restaurant coordinates (phone, address, open
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Purpose: Display physical contact details, opening timings,
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Inputs: Contact Name, Contact Email, Contact Phone, Message
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Outputs: Saved inquiry record in database, redirect to conta
+Style=Heading 2 | Font=Calibri | Size=13 | Bold=-1 | Align=0 | Text=/
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=11.3 Administrative Screens
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.3.1 Django Admin Login Page
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Password-protected gateway verifying administrative username
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Purpose: Authenticate restaurant managers and system adminis
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Inputs: Username, Password.
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Outputs: Session cookie token, redirection to Admin Dashboar
+Style=Heading 2 | Font=Calibri | Size=13 | Bold=-1 | Align=0 | Text=/
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.3.2 Admin Dashboard
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Purpose: Serve as the homepage for the administrative panel,
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Inputs: Left-navigation clicks.
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Outputs: Summary lists of all database tables (Menus, Bookin
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=/
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.3.3 Menu Management panel
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Provides clean form controls allowing admins to conduct CRUD
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Purpose: Add new dishes or modify existing ones in the resta
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Inputs: Category (Dropdown selection), Item Name, Price, Des
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=Outputs: Saved menu item in database, updated menu listings
+Style=Heading 2 | Font=Calibri | Size=13 | Bold=-1 | Align=0 | Text=/
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=11.4 System Validation Rules
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Booking Date: Checked in frontend (jQuery UI) and backend (v
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Date format: Standardised as DD/MM/YYYY to avoid timezone of
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Guest count: Dropdown selector restricted between 1 and 7 gu
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=12. Testing
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=12.1 Testing Strategy
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=A manual end-to-end testing approach was employed. Every for
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=A comprehensive testing strategy was designed and executed t
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=12.1.1 Testing Methodology
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The primary testing methodology adopted for this application
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Unit / View Testing : Individual Django model methods, form
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Integration Testing : Verified the communication between dif
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=System & End-to-End (E2E) Testing: Simulating complete user
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Boundary & Constraint Validation Testing: Testing the limits
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Submitting historical dates in the booking form.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Booking for dates beyond the 30-day booking window.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Entering negative numbers or string values in guests and pri
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=Submitting empty mandatory fields to verify appropriate erro
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=12.2 Test Environment
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=To ensure test results were consistent and represented real-
+Style=List Bullet | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=Operating System : Windows 11 Home / Professional
+Style=List Bullet | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=Backend Server : Django Development Server (port 8000)
+Style=List Bullet | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=Database Server : Standalone MySQL Server (v8.0)
+Style=List Bullet | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=Client Browser : Google Chrome (v115+), Mozilla Firefox (v11
+Style=List Bullet | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=Testing Tools : Browser Developer Consoles (Network & Consol
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=12.3 Test Cases
+Style=Body Text | Font= | Size=11 | Bold=0 | Align=3 | Text=The full test register contains 40 cases. The following tabl
+Style=Normal | Font=Arial | Size=9.5 | Bold=-1 | Align=1 | Text=TC ID
+Style=Normal | Font=Arial | Size=9.5 | Bold=-1 | Align=1 | Text=Test Case Scenario
+Style=Normal | Font=Arial | Size=9.5 | Bold=-1 | Align=1 | Text=Steps
+Style=Normal | Font=Arial | Size=9.5 | Bold=-1 | Align=1 | Text=Expected Result
+Style=Normal | Font=Arial | Size=9.5 | Bold=-1 | Align=1 | Text=Result
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-01
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Access Website Homepage
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Navigate to http://127.0.0.1:8000/
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Main page loads successfully.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-02
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Category Filter tab click
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Click Starters category tab.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Shows starters dishes instantly.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-03
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Valid Table Booking
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Submit booking with today's date.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Assigns table, saves to database.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-04
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Invalid Date Validation
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Submit booking with past date.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Fails with error validation alert.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-05
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Out-of-range Date Val.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Submit booking for 2 months future.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Fails with error validation alert.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-06
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Email Simulation Check
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Submit valid table booking.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Prints HTML booking email to console.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-07
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=SMS Simulation Check
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Submit valid table booking.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Logs simulated SMS notification details.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-08
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Admin Authentication Log
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Access /admin/ with invalid credentials.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Rejects login, shows error message.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-09
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Admin Menu CRUD insert
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Create new menu item in Admin panel.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Successfully adds item to menu.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=TC-10
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=General Contact Inquiry
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Submit Contact form with valid data.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Saves inquiry, shows success alert.
+Style=Normal | Font=Arial | Size=9.5 | Bold=0 | Align=1 | Text=Pass
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=12.4 Test Results Summary
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Category
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Cases
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Passed
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Failed
+Style=Normal | Font=Arial | Size=10 | Bold=-1 | Align=1 | Text=Resolved
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Web Page Rendering
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=6
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=6
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=0
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=—
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Menu Filter Engine
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=5
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=5
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=0
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=—
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Booking Validation Engine
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=15
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=14
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=1
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=1 (Timezone parsing patch applied)
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Admin CRUD Database
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=10
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=9
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=1
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=1 (Python 3.14 super.dicts patch)
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=Notification Simulation
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=4
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=4
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=0
+Style=Normal | Font=Arial | Size=10 | Bold=0 | Align=1 | Text=—
+Style=Normal | Font=Cambria | Size=11 | Bold=0 | Align=0 | Text=
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=12.5 Specific Issues Found and Fixed
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=1. Python 3.14 Compatibility Issue: Django 4.2's template sy
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=2. Booking Datepicker Off-by-One Timezone Error: Timezone di
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=3.Because of an internal change where the 'super' template c
+Style=Normal | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=12.6 Performance Observations
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Homepage Loading Time: Median latency 220ms (tested locally)
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Menu Category Database Filter: Average execution time 45ms.
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Reservation Database Insertion: Completes in under 120ms.
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=13. Future Scope
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The development of the "400°C Fine Dining Restaurant & In-Ho
+Style=Body Text | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=13.1 Short-Term Scope (Next 3 Months)
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Digital Payment Gateway Integration: Implementing payment
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• SMS & WhatsApp Business API Alerts: Integrating automated
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Enhanced Input Validation & Slot Locking: Developing a rea
+Style=Body Text | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=13.2 Medium-Term Scope (3 to 12 Months)
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=•Interactive 2D Floor Plan & Visual Table Selection: Creatin
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Feedback & Rating Analytics Dashboard: Adding a graphical
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• AI-Powered Menu Recommendations: Implementing a basic reco
+Style=Body Text | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=13.3 Long-Term Scope (After 12 Months)
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Multi-Outlet Franchise SaaS Architecture: Refactoring the
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=• Point-of-Sale (POS) & Inventory Integration: Linking the t
+Style=Body Text | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=•  Customer Loyalty & Membership Module: Introducing custome
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=14. Conclusion
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=3 | Text=The 400°C Fine Dining Restaurant & In-House Table Booking Sy
+Style=Normal | Font= | Size=9999999 | Bold=0 | Align=3 | Text=Developed in accordance with Rajiv Gandhi Proudyogiki Vishwa
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=14.1 Objectives Achieved
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=All primary objectives defined at the outset of this project
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=14.2 Lessons Learned
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=This project provided invaluable hands-on experience that ex
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The migration from PHP to Python highlighted how different f
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=14.3 Documentation as the Foundation
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=One of the most significant takeaways from this project was
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=14.4 Reflection
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Looking back, the development of this project was a journey
+Style=Normal | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=14.5 Closing Note
+Style=Normal | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The 400°C Fine Dining Restaurant Web Application stands as a
+Style=Normal | Font=Arial | Size=18 | Bold=-1 | Align=0 | Text=15. References
+Style=List Bullet | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Books:
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Roger S. Pressman, Software Engineering: A Practitioner's Ap
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Elmasri & Navathe, Fundamentals of Database Systems, Addison
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Adrian Holovaty & Jacob Kaplan-Moss, The Definitive Guide to
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=Paul Barry, Head First Python, O'Reilly Media, 2nd Edition.
+Style=List Bullet | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Official Documentation:
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=Django Framework Official Documentation: https://docs.django
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=Python Core Standard Library Guide: https://docs.python.org/
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=MySQL Server Reference Manual: https://dev.mysql.com/doc/
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=Bootstrap 4 Component Documentation: https://getbootstrap.co
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=jQuery Core API Documentation: https://api.jquery.com/
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=jQuery UI Datepicker Widget API: https://api.jqueryui.com/da
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=FontAwesome 6 Icons Reference: https://fontawesome.com/docs
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=Owl Carousel 2 Plugin Documentation: https://owlcarousel2.gi
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=FancyBox Lightbox Plugin Documentation: https://fancyapps.co
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=WOW.js Animation Library: https://wowjs.uk/docs.html
+Style=List Bullet | Font= | Size=11 | Bold=0 | Align=0 | Text=Pillow (PIL) Python Imaging Library: https://pillow.readthed
+Style=List Bullet | Font=Arial | Size=12 | Bold=-1 | Align=0 | Text=Academic Guidelines:
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=RGPV Academic MCA Project Guidelines, R.G.P.V. Bhopal.
+Style=List Bullet | Font=Arial | Size=14 | Bold=-1 | Align=0 | Text=Acknowledgements
+Style=List Bullet | Font=Arial | Size=11 | Bold=0 | Align=0 | Text=The author expresses sincere gratitude to the faculty of the
+

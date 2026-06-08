@@ -111,11 +111,17 @@ async function initDb() {
         CREATE TABLE IF NOT EXISTS orders (
           id VARCHAR(255) PRIMARY KEY,
           user_id VARCHAR(255) NOT NULL,
+          order_number VARCHAR(255),
+          customer_name VARCHAR(255),
+          customer_address TEXT,
+          customer_phone VARCHAR(255),
+          subtotal DECIMAL(10, 2),
+          discount_amount DECIMAL(10, 2),
           total_amount DECIMAL(10, 2) NOT NULL,
-          status VARCHAR(255) NOT NULL,
           payment_method VARCHAR(255) NOT NULL,
-          payment_status VARCHAR(255) NOT NULL,
-          shipping_address TEXT,
+          status VARCHAR(255) NOT NULL,
+          razorpay_order_id VARCHAR(255),
+          razorpay_payment_id VARCHAR(255),
           created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
         );
 
@@ -123,8 +129,10 @@ async function initDb() {
           id VARCHAR(255) PRIMARY KEY,
           order_id VARCHAR(255) NOT NULL,
           product_id VARCHAR(255) NOT NULL,
+          product_name VARCHAR(255),
+          product_price DECIMAL(10, 2),
           quantity INT NOT NULL,
-          price DECIMAL(10, 2) NOT NULL
+          total_price DECIMAL(10, 2)
         );
       `);
 
